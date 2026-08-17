@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anupriya059.github.io/greennest-interiors/sitemap.xml
