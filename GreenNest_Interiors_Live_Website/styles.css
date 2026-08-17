@@ -1,0 +1,10 @@
+
+*{box-sizing:border-box} body{margin:0;font-family:Arial,sans-serif;color:#26332b;background:#fafaf7;line-height:1.6}
+nav{background:#fff;border-bottom:1px solid #ddd;padding:18px 7%;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0}
+.logo{font-weight:700;font-size:22px;color:#254b37}.nav a{margin-left:18px;text-decoration:none;color:#333}
+.hero{padding:75px 8%;background:#eef3ed}.hero h1{font-size:46px;line-height:1.1;max-width:760px}.hero p{max-width:680px;font-size:18px}
+.btn{display:inline-block;background:#254b37;color:#fff;padding:12px 20px;border-radius:6px;text-decoration:none;margin:8px 8px 0 0}
+section{padding:55px 8%;max-width:1200px;margin:auto}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px}
+.card{background:#fff;border:1px solid #e2e2dc;border-radius:10px;padding:22px}.card h3{margin-top:0}
+footer{padding:30px 8%;background:#20342a;color:#fff} footer a{color:#fff}
+@media(max-width:700px){.nav{display:none}.hero h1{font-size:34px}}
